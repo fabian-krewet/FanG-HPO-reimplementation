@@ -1,0 +1,9 @@
+{
+    "0": {
+        "criterion": "entropy",
+        "max_depth": 78,
+        "max_samples": 1,
+        "min_samples_leaf": 0.07093360919574312,
+        "n_estimators": 83
+    }
+}

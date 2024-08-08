@@ -1,0 +1,35 @@
+{
+    "objectives": [
+        {
+            "name": "MCE",
+            "lower": 0,
+            "upper": 1,
+            "lock_lower": true,
+            "lock_upper": true,
+            "optimize": "lower"
+        },
+        {
+            "name": "DSP",
+            "lower": 0,
+            "upper": 1,
+            "lock_lower": true,
+            "lock_upper": true,
+            "optimize": "lower"
+        }
+    ],
+    "budgets": [
+        0.5,
+        1.0
+    ],
+    "seeds": [
+        424848546,
+        454213354,
+        503025858,
+        616255172,
+        1083009413,
+        1243142929,
+        1586525533,
+        1877722440,
+        2028537196
+    ]
+}

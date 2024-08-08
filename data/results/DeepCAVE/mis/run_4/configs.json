@@ -1,0 +1,65 @@
+{
+    "0": {
+        "criterion": "entropy",
+        "max_depth": 78,
+        "max_samples": 1,
+        "min_samples_leaf": 0.07093360919574312,
+        "n_estimators": 83
+    },
+    "1": {
+        "criterion": "log_loss",
+        "max_depth": 74,
+        "max_samples": 1,
+        "min_samples_leaf": 0.06872270967238758,
+        "n_estimators": 164
+    },
+    "2": {
+        "criterion": "entropy",
+        "max_depth": 3,
+        "max_samples": 0.6,
+        "min_samples_leaf": 0.2137343927824868,
+        "n_estimators": 3
+    },
+    "3": {
+        "criterion": "entropy",
+        "max_depth": 49,
+        "max_samples": 0.6,
+        "min_samples_leaf": 0.054281103215514506,
+        "n_estimators": 173
+    },
+    "4": {
+        "criterion": "entropy",
+        "max_depth": 4,
+        "max_samples": 0.8,
+        "min_samples_leaf": 0.06691089492022882,
+        "n_estimators": 200
+    },
+    "5": {
+        "criterion": "gini",
+        "max_depth": 37,
+        "max_samples": 1,
+        "min_samples_leaf": 0.05595480808142689,
+        "n_estimators": 1
+    },
+    "6": {
+        "criterion": "log_loss",
+        "max_depth": 17,
+        "max_samples": 1,
+        "min_samples_leaf": 0.2549646466603264,
+        "n_estimators": 195
+    },
+    "7": {
+        "criterion": "gini",
+        "max_depth": 63,
+        "max_samples": 1,
+        "min_samples_leaf": 0.06334773619260953,
+        "n_estimators": 1
+    },
+    "8": {
+        "criterion": "log_loss",
+        "max_depth": 72,
+        "max_samples": 0.6,
+        "min_samples_leaf": 0.08436168499540403,
+        "n_estimators": 12
+    }
+}

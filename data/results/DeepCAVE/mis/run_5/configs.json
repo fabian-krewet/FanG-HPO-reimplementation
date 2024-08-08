@@ -1,0 +1,702 @@
+{
+    "0": {
+        "criterion": "entropy",
+        "max_depth": 78,
+        "max_samples": 1,
+        "min_samples_leaf": 0.07093360919574312,
+        "n_estimators": 83
+    },
+    "1": {
+        "criterion": "log_loss",
+        "max_depth": 74,
+        "max_samples": 1,
+        "min_samples_leaf": 0.06872270967238758,
+        "n_estimators": 164
+    },
+    "2": {
+        "criterion": "entropy",
+        "max_depth": 3,
+        "max_samples": 0.6,
+        "min_samples_leaf": 0.2137343927824868,
+        "n_estimators": 3
+    },
+    "3": {
+        "criterion": "entropy",
+        "max_depth": 49,
+        "max_samples": 0.6,
+        "min_samples_leaf": 0.054281103215514506,
+        "n_estimators": 173
+    },
+    "4": {
+        "criterion": "entropy",
+        "max_depth": 4,
+        "max_samples": 0.8,
+        "min_samples_leaf": 0.06691089492022882,
+        "n_estimators": 200
+    },
+    "5": {
+        "criterion": "gini",
+        "max_depth": 37,
+        "max_samples": 1,
+        "min_samples_leaf": 0.05595480808142689,
+        "n_estimators": 1
+    },
+    "6": {
+        "criterion": "log_loss",
+        "max_depth": 17,
+        "max_samples": 1,
+        "min_samples_leaf": 0.2549646466603264,
+        "n_estimators": 195
+    },
+    "7": {
+        "criterion": "gini",
+        "max_depth": 63,
+        "max_samples": 1,
+        "min_samples_leaf": 0.06334773619260953,
+        "n_estimators": 1
+    },
+    "8": {
+        "criterion": "log_loss",
+        "max_depth": 72,
+        "max_samples": 0.6,
+        "min_samples_leaf": 0.08436168499540403,
+        "n_estimators": 12
+    },
+    "9": {
+        "criterion": "gini",
+        "max_depth": 69,
+        "max_samples": 1,
+        "min_samples_leaf": 0.05982885365983743,
+        "n_estimators": 7
+    },
+    "10": {
+        "criterion": "entropy",
+        "max_depth": 34,
+        "max_samples": 0.6,
+        "min_samples_leaf": 0.27752171328160147,
+        "n_estimators": 55
+    },
+    "11": {
+        "criterion": "gini",
+        "max_depth": 50,
+        "max_samples": 1,
+        "min_samples_leaf": 0.07129139136378351,
+        "n_estimators": 2
+    },
+    "12": {
+        "criterion": "gini",
+        "max_depth": 5,
+        "max_samples": 0.6,
+        "min_samples_leaf": 0.05597619827774642,
+        "n_estimators": 198
+    },
+    "13": {
+        "criterion": "gini",
+        "max_depth": 54,
+        "max_samples": 1,
+        "min_samples_leaf": 0.0885936359178783,
+        "n_estimators": 14
+    },
+    "14": {
+        "criterion": "gini",
+        "max_depth": 77,
+        "max_samples": 0.6,
+        "min_samples_leaf": 0.17038007431496482,
+        "n_estimators": 171
+    },
+    "15": {
+        "criterion": "entropy",
+        "max_depth": 48,
+        "max_samples": 1,
+        "min_samples_leaf": 0.07375489591812567,
+        "n_estimators": 3
+    },
+    "16": {
+        "criterion": "entropy",
+        "max_depth": 83,
+        "max_samples": 1,
+        "min_samples_leaf": 0.10423638626520501,
+        "n_estimators": 200
+    },
+    "17": {
+        "criterion": "gini",
+        "max_depth": 49,
+        "max_samples": 1,
+        "min_samples_leaf": 0.07352767473864451,
+        "n_estimators": 4
+    },
+    "18": {
+        "criterion": "log_loss",
+        "max_depth": 95,
+        "max_samples": 1,
+        "min_samples_leaf": 0.05490836951128732,
+        "n_estimators": 4
+    },
+    "19": {
+        "criterion": "log_loss",
+        "max_depth": 74,
+        "max_samples": 1,
+        "min_samples_leaf": 0.11760870699650014,
+        "n_estimators": 5
+    },
+    "20": {
+        "criterion": "log_loss",
+        "max_depth": 94,
+        "max_samples": 1,
+        "min_samples_leaf": 0.15854741358958435,
+        "n_estimators": 31
+    },
+    "21": {
+        "criterion": "log_loss",
+        "max_depth": 97,
+        "max_samples": 1,
+        "min_samples_leaf": 0.08599825840333516,
+        "n_estimators": 195
+    },
+    "22": {
+        "criterion": "log_loss",
+        "max_depth": 92,
+        "max_samples": 1,
+        "min_samples_leaf": 0.07053740731312773,
+        "n_estimators": 40
+    },
+    "23": {
+        "criterion": "gini",
+        "max_depth": 9,
+        "max_samples": 1,
+        "min_samples_leaf": 0.06303569379674477,
+        "n_estimators": 3
+    },
+    "24": {
+        "criterion": "entropy",
+        "max_depth": 82,
+        "max_samples": 1,
+        "min_samples_leaf": 0.05848087685865688,
+        "n_estimators": 1
+    },
+    "25": {
+        "criterion": "entropy",
+        "max_depth": 64,
+        "max_samples": 0.8,
+        "min_samples_leaf": 0.0574227281557536,
+        "n_estimators": 1
+    },
+    "26": {
+        "criterion": "entropy",
+        "max_depth": 51,
+        "max_samples": 0.8,
+        "min_samples_leaf": 0.057548083372471644,
+        "n_estimators": 8
+    },
+    "27": {
+        "criterion": "entropy",
+        "max_depth": 52,
+        "max_samples": 0.6,
+        "min_samples_leaf": 0.0693686908834059,
+        "n_estimators": 28
+    },
+    "28": {
+        "criterion": "entropy",
+        "max_depth": 84,
+        "max_samples": 0.6,
+        "min_samples_leaf": 0.07277667350429348,
+        "n_estimators": 37
+    },
+    "29": {
+        "criterion": "gini",
+        "max_depth": 38,
+        "max_samples": 1,
+        "min_samples_leaf": 0.060980207123582666,
+        "n_estimators": 2
+    },
+    "30": {
+        "criterion": "entropy",
+        "max_depth": 62,
+        "max_samples": 0.8,
+        "min_samples_leaf": 0.06166328930954672,
+        "n_estimators": 22
+    },
+    "31": {
+        "criterion": "gini",
+        "max_depth": 2,
+        "max_samples": 1,
+        "min_samples_leaf": 0.05635805604912608,
+        "n_estimators": 2
+    },
+    "32": {
+        "criterion": "entropy",
+        "max_depth": 55,
+        "max_samples": 0.8,
+        "min_samples_leaf": 0.05405287249583515,
+        "n_estimators": 3
+    },
+    "33": {
+        "criterion": "entropy",
+        "max_depth": 33,
+        "max_samples": 0.8,
+        "min_samples_leaf": 0.05227697553496912,
+        "n_estimators": 3
+    },
+    "34": {
+        "criterion": "entropy",
+        "max_depth": 49,
+        "max_samples": 0.8,
+        "min_samples_leaf": 0.0552497302367578,
+        "n_estimators": 13
+    },
+    "35": {
+        "criterion": "gini",
+        "max_depth": 3,
+        "max_samples": 0.6,
+        "min_samples_leaf": 0.254624931385505,
+        "n_estimators": 200
+    },
+    "36": {
+        "criterion": "entropy",
+        "max_depth": 31,
+        "max_samples": 1,
+        "min_samples_leaf": 0.057769960489068455,
+        "n_estimators": 3
+    },
+    "37": {
+        "criterion": "entropy",
+        "max_depth": 51,
+        "max_samples": 0.8,
+        "min_samples_leaf": 0.06490276031796816,
+        "n_estimators": 11
+    },
+    "38": {
+        "criterion": "entropy",
+        "max_depth": 53,
+        "max_samples": 0.8,
+        "min_samples_leaf": 0.06317449481699337,
+        "n_estimators": 6
+    },
+    "39": {
+        "criterion": "entropy",
+        "max_depth": 49,
+        "max_samples": 0.8,
+        "min_samples_leaf": 0.07461344813885934,
+        "n_estimators": 2
+    },
+    "40": {
+        "criterion": "entropy",
+        "max_depth": 61,
+        "max_samples": 0.8,
+        "min_samples_leaf": 0.06473475921007085,
+        "n_estimators": 7
+    },
+    "41": {
+        "criterion": "gini",
+        "max_depth": 72,
+        "max_samples": 1,
+        "min_samples_leaf": 0.2083158200585527,
+        "n_estimators": 59
+    },
+    "42": {
+        "criterion": "entropy",
+        "max_depth": 15,
+        "max_samples": 1,
+        "min_samples_leaf": 0.055412278900073345,
+        "n_estimators": 10
+    },
+    "43": {
+        "criterion": "log_loss",
+        "max_depth": 6,
+        "max_samples": 0.6,
+        "min_samples_leaf": 0.054926231545850177,
+        "n_estimators": 11
+    },
+    "44": {
+        "criterion": "entropy",
+        "max_depth": 36,
+        "max_samples": 1,
+        "min_samples_leaf": 0.05743580701274133,
+        "n_estimators": 16
+    },
+    "45": {
+        "criterion": "entropy",
+        "max_depth": 61,
+        "max_samples": 0.8,
+        "min_samples_leaf": 0.05197778912614533,
+        "n_estimators": 87
+    },
+    "46": {
+        "criterion": "entropy",
+        "max_depth": 35,
+        "max_samples": 1,
+        "min_samples_leaf": 0.0564901539928377,
+        "n_estimators": 3
+    },
+    "47": {
+        "criterion": "entropy",
+        "max_depth": 77,
+        "max_samples": 1,
+        "min_samples_leaf": 0.21406066342163604,
+        "n_estimators": 198
+    },
+    "48": {
+        "criterion": "entropy",
+        "max_depth": 31,
+        "max_samples": 1,
+        "min_samples_leaf": 0.055031634062578605,
+        "n_estimators": 15
+    },
+    "49": {
+        "criterion": "gini",
+        "max_depth": 47,
+        "max_samples": 0.6,
+        "min_samples_leaf": 0.051062294824962585,
+        "n_estimators": 23
+    },
+    "50": {
+        "criterion": "entropy",
+        "max_depth": 24,
+        "max_samples": 1,
+        "min_samples_leaf": 0.052088740078400066,
+        "n_estimators": 3
+    },
+    "51": {
+        "criterion": "log_loss",
+        "max_depth": 114,
+        "max_samples": 0.6,
+        "min_samples_leaf": 0.09958309630444967,
+        "n_estimators": 25
+    },
+    "52": {
+        "criterion": "entropy",
+        "max_depth": 39,
+        "max_samples": 1,
+        "min_samples_leaf": 0.06110174013753091,
+        "n_estimators": 12
+    },
+    "53": {
+        "criterion": "entropy",
+        "max_depth": 67,
+        "max_samples": 0.8,
+        "min_samples_leaf": 0.05445909425165449,
+        "n_estimators": 20
+    },
+    "54": {
+        "criterion": "entropy",
+        "max_depth": 19,
+        "max_samples": 1,
+        "min_samples_leaf": 0.060070932109159945,
+        "n_estimators": 8
+    },
+    "55": {
+        "criterion": "log_loss",
+        "max_depth": 88,
+        "max_samples": 0.6,
+        "min_samples_leaf": 0.26463920356365506,
+        "n_estimators": 6
+    },
+    "56": {
+        "criterion": "entropy",
+        "max_depth": 9,
+        "max_samples": 1,
+        "min_samples_leaf": 0.06431608810542255,
+        "n_estimators": 1
+    },
+    "57": {
+        "criterion": "log_loss",
+        "max_depth": 46,
+        "max_samples": 1,
+        "min_samples_leaf": 0.19231653261670745,
+        "n_estimators": 16
+    },
+    "58": {
+        "criterion": "entropy",
+        "max_depth": 10,
+        "max_samples": 1,
+        "min_samples_leaf": 0.05122053980658999,
+        "n_estimators": 20
+    },
+    "59": {
+        "criterion": "log_loss",
+        "max_depth": 38,
+        "max_samples": 1,
+        "min_samples_leaf": 0.15831909711543596,
+        "n_estimators": 3
+    },
+    "60": {
+        "criterion": "entropy",
+        "max_depth": 38,
+        "max_samples": 1,
+        "min_samples_leaf": 0.051035727131340906,
+        "n_estimators": 4
+    },
+    "61": {
+        "criterion": "entropy",
+        "max_depth": 58,
+        "max_samples": 0.8,
+        "min_samples_leaf": 0.05105467688770729,
+        "n_estimators": 26
+    },
+    "62": {
+        "criterion": "entropy",
+        "max_depth": 23,
+        "max_samples": 1,
+        "min_samples_leaf": 0.05288305578188635,
+        "n_estimators": 3
+    },
+    "63": {
+        "criterion": "log_loss",
+        "max_depth": 40,
+        "max_samples": 1,
+        "min_samples_leaf": 0.18059166197882692,
+        "n_estimators": 2
+    },
+    "64": {
+        "criterion": "log_loss",
+        "max_depth": 34,
+        "max_samples": 1,
+        "min_samples_leaf": 0.19855196242299883,
+        "n_estimators": 12
+    },
+    "65": {
+        "criterion": "log_loss",
+        "max_depth": 29,
+        "max_samples": 1,
+        "min_samples_leaf": 0.18415153454753175,
+        "n_estimators": 2
+    },
+    "66": {
+        "criterion": "log_loss",
+        "max_depth": 35,
+        "max_samples": 0.8,
+        "min_samples_leaf": 0.19916816431665574,
+        "n_estimators": 8
+    },
+    "67": {
+        "criterion": "log_loss",
+        "max_depth": 25,
+        "max_samples": 1,
+        "min_samples_leaf": 0.2416345894269759,
+        "n_estimators": 2
+    },
+    "68": {
+        "criterion": "log_loss",
+        "max_depth": 32,
+        "max_samples": 1,
+        "min_samples_leaf": 0.20347503070212247,
+        "n_estimators": 2
+    },
+    "69": {
+        "criterion": "log_loss",
+        "max_depth": 30,
+        "max_samples": 0.8,
+        "min_samples_leaf": 0.19054751624833266,
+        "n_estimators": 6
+    },
+    "70": {
+        "criterion": "log_loss",
+        "max_depth": 40,
+        "max_samples": 1,
+        "min_samples_leaf": 0.1911530195053588,
+        "n_estimators": 2
+    },
+    "71": {
+        "criterion": "entropy",
+        "max_depth": 33,
+        "max_samples": 1,
+        "min_samples_leaf": 0.21261820863021053,
+        "n_estimators": 5
+    },
+    "72": {
+        "criterion": "log_loss",
+        "max_depth": 40,
+        "max_samples": 1,
+        "min_samples_leaf": 0.1873987143573283,
+        "n_estimators": 1
+    },
+    "73": {
+        "criterion": "log_loss",
+        "max_depth": 40,
+        "max_samples": 1,
+        "min_samples_leaf": 0.21247263481434397,
+        "n_estimators": 1
+    },
+    "74": {
+        "criterion": "log_loss",
+        "max_depth": 35,
+        "max_samples": 1,
+        "min_samples_leaf": 0.23130771179967263,
+        "n_estimators": 9
+    },
+    "75": {
+        "criterion": "log_loss",
+        "max_depth": 36,
+        "max_samples": 1,
+        "min_samples_leaf": 0.23696328917010745,
+        "n_estimators": 14
+    },
+    "76": {
+        "criterion": "log_loss",
+        "max_depth": 23,
+        "max_samples": 1,
+        "min_samples_leaf": 0.1970152745600185,
+        "n_estimators": 4
+    },
+    "77": {
+        "criterion": "log_loss",
+        "max_depth": 37,
+        "max_samples": 1,
+        "min_samples_leaf": 0.19462603699485292,
+        "n_estimators": 9
+    },
+    "78": {
+        "criterion": "log_loss",
+        "max_depth": 18,
+        "max_samples": 1,
+        "min_samples_leaf": 0.18500300089235977,
+        "n_estimators": 1
+    },
+    "79": {
+        "criterion": "log_loss",
+        "max_depth": 13,
+        "max_samples": 1,
+        "min_samples_leaf": 0.16736725791794732,
+        "n_estimators": 1
+    },
+    "80": {
+        "criterion": "log_loss",
+        "max_depth": 46,
+        "max_samples": 1,
+        "min_samples_leaf": 0.19323280643948726,
+        "n_estimators": 1
+    },
+    "81": {
+        "criterion": "log_loss",
+        "max_depth": 58,
+        "max_samples": 1,
+        "min_samples_leaf": 0.1945501633149575,
+        "n_estimators": 4
+    },
+    "82": {
+        "criterion": "entropy",
+        "max_depth": 11,
+        "max_samples": 1,
+        "min_samples_leaf": 0.056709987772213366,
+        "n_estimators": 1
+    },
+    "83": {
+        "criterion": "gini",
+        "max_depth": 59,
+        "max_samples": 0.8,
+        "min_samples_leaf": 0.22482843559859117,
+        "n_estimators": 7
+    },
+    "84": {
+        "criterion": "entropy",
+        "max_depth": 10,
+        "max_samples": 1,
+        "min_samples_leaf": 0.05641082999504668,
+        "n_estimators": 15
+    },
+    "85": {
+        "criterion": "log_loss",
+        "max_depth": 48,
+        "max_samples": 1,
+        "min_samples_leaf": 0.19454183416986592,
+        "n_estimators": 1
+    },
+    "86": {
+        "criterion": "entropy",
+        "max_depth": 13,
+        "max_samples": 1,
+        "min_samples_leaf": 0.061182172908905076,
+        "n_estimators": 6
+    },
+    "87": {
+        "criterion": "entropy",
+        "max_depth": 32,
+        "max_samples": 0.6,
+        "min_samples_leaf": 0.14621948201458862,
+        "n_estimators": 199
+    },
+    "88": {
+        "criterion": "entropy",
+        "max_depth": 18,
+        "max_samples": 1,
+        "min_samples_leaf": 0.05585377306023816,
+        "n_estimators": 16
+    },
+    "89": {
+        "criterion": "log_loss",
+        "max_depth": 18,
+        "max_samples": 1,
+        "min_samples_leaf": 0.19117948990406103,
+        "n_estimators": 1
+    },
+    "90": {
+        "criterion": "entropy",
+        "max_depth": 15,
+        "max_samples": 1,
+        "min_samples_leaf": 0.05739721398050712,
+        "n_estimators": 5
+    },
+    "91": {
+        "criterion": "log_loss",
+        "max_depth": 29,
+        "max_samples": 1,
+        "min_samples_leaf": 0.18087349382950862,
+        "n_estimators": 1
+    },
+    "92": {
+        "criterion": "log_loss",
+        "max_depth": 25,
+        "max_samples": 1,
+        "min_samples_leaf": 0.19685613629300625,
+        "n_estimators": 15
+    },
+    "93": {
+        "criterion": "log_loss",
+        "max_depth": 32,
+        "max_samples": 1,
+        "min_samples_leaf": 0.20817186600609888,
+        "n_estimators": 1
+    },
+    "94": {
+        "criterion": "log_loss",
+        "max_depth": 26,
+        "max_samples": 1,
+        "min_samples_leaf": 0.19667998202222076,
+        "n_estimators": 7
+    },
+    "95": {
+        "criterion": "log_loss",
+        "max_depth": 28,
+        "max_samples": 1,
+        "min_samples_leaf": 0.196703213167294,
+        "n_estimators": 19
+    },
+    "96": {
+        "criterion": "log_loss",
+        "max_depth": 26,
+        "max_samples": 1,
+        "min_samples_leaf": 0.19865622357139423,
+        "n_estimators": 1
+    },
+    "97": {
+        "criterion": "log_loss",
+        "max_depth": 52,
+        "max_samples": 1,
+        "min_samples_leaf": 0.14380063404109927,
+        "n_estimators": 33
+    },
+    "98": {
+        "criterion": "entropy",
+        "max_depth": 23,
+        "max_samples": 1,
+        "min_samples_leaf": 0.05488955403720574,
+        "n_estimators": 3
+    },
+    "99": {
+        "criterion": "log_loss",
+        "max_depth": 5,
+        "max_samples": 0.8,
+        "min_samples_leaf": 0.21912048228927306,
+        "n_estimators": 6
+    }
+}

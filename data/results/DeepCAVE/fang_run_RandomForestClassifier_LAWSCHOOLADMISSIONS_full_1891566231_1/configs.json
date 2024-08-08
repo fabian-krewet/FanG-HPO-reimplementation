@@ -1,0 +1,44 @@
+{
+    "0": {
+        "criterion": "log_loss",
+        "max_depth": 67,
+        "max_samples": 1,
+        "min_samples_leaf": 0.23721381080329185,
+        "n_estimators": 163
+    },
+    "1": {
+        "criterion": "entropy",
+        "max_depth": 98,
+        "max_samples": 1,
+        "min_samples_leaf": 0.08403284928751943,
+        "n_estimators": 68
+    },
+    "2": {
+        "criterion": "entropy",
+        "max_depth": 74,
+        "max_samples": 0.6,
+        "min_samples_leaf": 0.08218836961462424,
+        "n_estimators": 39
+    },
+    "3": {
+        "criterion": "log_loss",
+        "max_depth": 78,
+        "max_samples": 0.8,
+        "min_samples_leaf": 0.06254222141341152,
+        "n_estimators": 188
+    },
+    "4": {
+        "criterion": "log_loss",
+        "max_depth": 6,
+        "max_samples": 1,
+        "min_samples_leaf": 0.24616383636963435,
+        "n_estimators": 104
+    },
+    "5": {
+        "criterion": "entropy",
+        "max_depth": 59,
+        "max_samples": 1,
+        "min_samples_leaf": 0.09260476202111328,
+        "n_estimators": 175
+    }
+}

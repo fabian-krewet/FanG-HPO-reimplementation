@@ -1,0 +1,107 @@
+{
+  "name": "MLP_config_space",
+  "hyperparameters": [
+    {
+      "name": "activation",
+      "type": "categorical",
+      "choices": [
+        "relu",
+        "tanh",
+        "logistic"
+      ],
+      "default": "relu",
+      "weights": null
+    },
+    {
+      "name": "alpha",
+      "type": "uniform_float",
+      "log": true,
+      "lower": 1e-05,
+      "upper": 0.5,
+      "default": 0.002236068
+    },
+    {
+      "name": "learning_rate",
+      "type": "categorical",
+      "choices": [
+        "constant",
+        "adaptive"
+      ],
+      "default": "constant",
+      "weights": null
+    },
+    {
+      "name": "n_layers",
+      "type": "uniform_int",
+      "log": false,
+      "lower": 1,
+      "upper": 4,
+      "default": 2
+    },
+    {
+      "name": "n_neurons_layer1",
+      "type": "uniform_int",
+      "log": true,
+      "lower": 2,
+      "upper": 32,
+      "default": 8
+    },
+    {
+      "name": "solver",
+      "type": "categorical",
+      "choices": [
+        "adam",
+        "sgd"
+      ],
+      "default": "adam",
+      "weights": null
+    },
+    {
+      "name": "n_neurons_layer2",
+      "type": "uniform_int",
+      "log": true,
+      "lower": 2,
+      "upper": 32,
+      "default": 8
+    },
+    {
+      "name": "n_neurons_layer3",
+      "type": "uniform_int",
+      "log": true,
+      "lower": 2,
+      "upper": 32,
+      "default": 8
+    },
+    {
+      "name": "n_neurons_layer4",
+      "type": "uniform_int",
+      "log": true,
+      "lower": 2,
+      "upper": 32,
+      "default": 8
+    }
+  ],
+  "conditions": [
+    {
+      "child": "n_neurons_layer2",
+      "parent": "n_layers",
+      "type": "GT",
+      "value": 1
+    },
+    {
+      "child": "n_neurons_layer3",
+      "parent": "n_layers",
+      "type": "GT",
+      "value": 2
+    },
+    {
+      "child": "n_neurons_layer4",
+      "parent": "n_layers",
+      "type": "GT",
+      "value": 3
+    }
+  ],
+  "forbiddens": [],
+  "python_module_version": "0.6.1",
+  "json_format_version": 0.4
+}
